@@ -1,0 +1,10 @@
+disabled_rules:
+  - vertical_whitespace
+  - trailing_whitespace
+  - line_length
+  - trailing_newline
+  - unused_optional_binding
+  - type_name
+opt_in_rules:
+  - explicit_self
+  - toggle_bool
